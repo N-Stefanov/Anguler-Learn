@@ -1,0 +1,5 @@
+{
+  "prettier.tabWidth": 4,
+  "prettier.vueIndentScriptAndStyle": false,
+  "prettier.useTabs": true
+}
